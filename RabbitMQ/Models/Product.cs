@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace RabbitMQ.Watermark.Models
+namespace RabbitMQ.Models
 {
     public class Product
     {
